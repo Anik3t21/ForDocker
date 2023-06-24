@@ -1,8 +1,8 @@
 {
   "auths": {
-    " https://index.docker.io/v1/": {
-
-      "auth": "YW5pazN0MjE6ZGNrcl9wYXRfc242RVdLb3RKeU5PbjNTMmlIWjM0aERCMzFZ"
+    "https://index.docker.io/v1/": {
+      "username": "anik3t21",
+      "password": "dckr_pat_sn6EWKotJyNOn3S2iHZ34hDB31Y"
     }
   }
 }
